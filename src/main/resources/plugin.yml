@@ -1,0 +1,5 @@
+main: me.enchan.anti_insects.AntiInsects
+name: anti_insects
+version: "0.1.0"
+api: 1.16.2
+api-version: "1.17"
